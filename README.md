@@ -2,8 +2,8 @@
 
 # Adicione ao arquivo youtube.txt toda a sua lista de musicas do youtube
 ex:
-http://www.youtube.com/watch?v=******
-http://www.youtube.com/watch?v=******
+http://www.youtube.com/watch?v=******\n
+http://www.youtube.com/watch?v=******\n
 http://www.youtube.com/watch?v=******
 ...
 http://www.youtube.com/watch?v=******
