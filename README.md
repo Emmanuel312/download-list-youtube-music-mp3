@@ -1,12 +1,12 @@
 # download-list-youtube-music-mp3
 
 # Adicione ao arquivo youtube.txt toda a sua lista de musicas do youtube
-ex:
-#http://www.youtube.com/watch?v=******
-#http://www.youtube.com/watch?v=****** 
-#http://www.youtube.com/watch?v=******
-#...
-#http://www.youtube.com/watch?v=******
+# ex:
+# http://www.youtube.com/watch?v=******
+# http://www.youtube.com/watch?v=****** 
+# http://www.youtube.com/watch?v=******
+# ...
+# http://www.youtube.com/watch?v=******
 
 #Execute o script yarn start
 
